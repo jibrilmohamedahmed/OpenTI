@@ -24,7 +24,7 @@ OpenTI is the foundational operating system and system-of-record for autonomous 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YourOrg/OpenTI.git
+git clone https://github.com/jibrilmohamedahmed/OpenTI.git
 cd OpenTI
 ```
 
